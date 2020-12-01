@@ -1,0 +1,51 @@
+﻿id,student,mobile_banking,age,budget_important,control_spending,useful,easy
+1,Yes,Once a week,18 to 25,Agree,Agree,Agree,Agree
+2,Yes,Once a week,36 to 45,Neither agree nor disagree,Agree,Agree,Disagree
+3,Yes,Once a week,18 to 25,Agree,Strongly agree,Agree,Strongly agree
+4,No,Multiple times a day,36 to 45,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree
+5,No,Once a day,46 to 55,Disagree,Disagree,Agree,Agree
+6,Yes,Once a day,18 to 25,Disagree,Strongly disagree,Agree,Agree
+7,Yes,Once a day,18 to 25,Agree,Strongly agree,Strongly agree,Strongly agree
+8,Yes,Once a month,26 to 35,Agree,Neither agree nor disagree,Strongly agree,Disagree
+9,Yes,Once a week,26 to 35,Strongly agree,Strongly agree,Strongly agree,Agree
+10,Yes,Multiple times a day,26 to 35,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree
+11,No,Once a day,26 to 35,Neither agree nor disagree,Agree,Agree,Strongly agree
+12,Yes,Once a week,18 to 25,Agree,Neither agree nor disagree,Strongly agree,Strongly agree
+13,No,Once a month,26 to 35,Disagree,Disagree,Neither agree nor disagree,Agree
+14,Yes,Once a day,18 to 25,Strongly agree,Strongly agree,Agree,Strongly agree
+15,Yes,Once a day,18 to 25,Strongly agree,Agree,Agree,Agree
+16,No,Never,Above 65,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree
+17,Yes,Once a month,36 to 45,Disagree,Disagree,Disagree,Neither agree nor disagree
+18,Yes,Once a day,18 to 25,Strongly agree,Neither agree nor disagree,Agree,Agree
+19,Yes,Once a week,18 to 25,Agree,Agree,Agree,Agree
+20,Yes,Once a month,18 to 25,Strongly agree,Strongly disagree,Agree,Neither agree nor disagree
+21,Yes,Once a day,36 to 45,Strongly agree,Agree,Agree,Agree
+22,No,Once a week,56 to 65,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree
+23,Yes,Multiple times a day,26 to 35,Agree,Strongly disagree,Strongly agree,Neither agree nor disagree
+24,Yes,Once a week,26 to 35,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree
+25,Yes,Once a week,26 to 35,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+26,No,Once a day,36 to 45,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree
+27,Yes,Once a week,18 to 25,Agree,Disagree,Neither agree nor disagree,Strongly agree
+28,Yes,Once a day,18 to 25,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+29,No,Once a week,18 to 25,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree
+30,Yes,Once a week,36 to 45,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+31,Yes,Once a day,26 to 35,Strongly agree,Agree,Agree,Agree
+32,Yes,Once a day,26 to 35,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree
+33,No,Once a day,46 to 55,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree
+34,Yes,Multiple times a day,18 to 25,Agree,Strongly agree,Strongly agree,Neither agree nor disagree
+35,Yes,Once a week,36 to 45,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree
+36,No,Never,46 to 55,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+37,Yes,Once a day,26 to 35,Agree,Agree,Strongly agree,Strongly agree
+38,No,Once a month,56 to 65,Agree,Agree,Disagree,Agree
+39,No,Never,56 to 65,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree
+40,Yes,Once a week,18 to 25,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree
+41,No,Once a month,46 to 55,Strongly agree,Neither agree nor disagree,Agree,Disagree
+42,Yes,Once a day,36 to 45,Agree,Strongly disagree,Disagree,Agree
+43,Yes,Multiple times a day,18 to 25,Strongly agree,Strongly agree,Agree,Agree
+44,Yes,Once a week,26 to 35,Agree,Strongly disagree,Neither agree nor disagree,Agree
+45,Yes,Once a day,36 to 45,Strongly agree,Agree,Agree,Neither agree nor disagree
+46,No,Once a month,36 to 45,Agree,Agree,Agree,Agree
+47,Yes,Multiple times a day,18 to 25,Strongly agree,Neither agree nor disagree,Agree,Strongly agree
+48,No,Once a day,18 to 25,Neither agree nor disagree,Agree,Strongly agree,Strongly agree
+49,No,Once a day,18 to 25,Agree,Strongly agree,Neither agree nor disagree,Agree
+50,No,Once a week,56 to 65,Agree,Neither agree nor disagree,Agree,Disagree
